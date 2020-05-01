@@ -1,5 +1,17 @@
-# curso-platzi-react-avanzado ⚛️
+# App de fotos similar a Instagram ⚛️
 
-¡Sígueme en Youtube! https://www.youtube.com/midudev
+App de fotos integrada con la API propia
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+![Captura de pantalla](./.readme-static/captura.png)
+
+## ¿Cómo funciona?
+
+Require Node.JS 10
+
+- `npm install` para instalar las dependencias
+- `npm run dev` para el entorno de desarrollo
+- `npm run build && npm start` para el entorno de producción.
+
+## Licencia
+
+MIT
